@@ -9,7 +9,8 @@ import java.util.Arrays;
 import static ru.ifmo.baev.chat.utils.Common.getBytes;
 
 /**
- * Date: 07.11.13
+ * @author Dmitry Baev charlie@yandex-team.ru
+ *         Date: 06.02.14
  */
 public class TCPMessage implements Comparable<TCPMessage> {
     private final byte[] mac;

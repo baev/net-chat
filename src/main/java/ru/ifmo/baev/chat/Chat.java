@@ -13,7 +13,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Date: 07.11.13
+ * @author Dmitry Baev charlie@yandex-team.ru
+ *         Date: 06.02.14
  */
 public class Chat {
 

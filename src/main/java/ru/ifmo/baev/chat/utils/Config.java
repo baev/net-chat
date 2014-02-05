@@ -4,7 +4,7 @@ package ru.ifmo.baev.chat.utils;
  * @author Dmitry Baev charlie@yandex-team.ru
  *         Date: 06.02.14
  */
-public class Config {
+public final class Config {
 
     public static final int TCP_PORT = 1236;
 

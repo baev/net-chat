@@ -6,7 +6,8 @@ import ru.ifmo.baev.chat.utils.Config;
 import static ru.ifmo.baev.chat.utils.Common.getBytes;
 
 /**
- * Date: 08.11.13
+ * @author Dmitry Baev charlie@yandex-team.ru
+ *         Date: 06.02.14
  */
 public class UDPMessage {
     private final byte[] mac;

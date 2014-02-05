@@ -11,7 +11,8 @@ import java.net.DatagramSocket;
 import java.net.InetAddress;
 
 /**
- * Date: 08.11.13
+ * @author Dmitry Baev charlie@yandex-team.ru
+ *         Date: 06.02.14
  */
 public class UDPSender implements Runnable {
 

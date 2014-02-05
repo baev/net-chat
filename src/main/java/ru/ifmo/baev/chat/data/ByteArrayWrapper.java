@@ -3,7 +3,8 @@ package ru.ifmo.baev.chat.data;
 import java.util.Arrays;
 
 /**
- * Date: 08.11.13
+ * @author Dmitry Baev charlie@yandex-team.ru
+ *         Date: 06.02.14
  */
 public class ByteArrayWrapper {
 
